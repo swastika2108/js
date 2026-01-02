@@ -9,7 +9,7 @@
 		"features": {
 		"ghcr.io/devcontainers-extra/features/node-asdf:0": {},
 		"ghcr.io/roul/devcontainer-features/mise-node:1": {}
-	}
+	},
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
